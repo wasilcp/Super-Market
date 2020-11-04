@@ -634,6 +634,12 @@ i.gray-star {
     transition: all 1s;
     width: 100%;
 }
+@media only screen and (max-width: 768px) {
+         .ch
+         {
+          height: 250px;
+         }
+     }
 .ban-top:hover img {
 	-moz-transform: scale3d(1.1, 1.1, 1);
     -o-transform: scale3d(1.1, 1.1, 1);
