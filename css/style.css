@@ -44,6 +44,9 @@ span.glyphicon.glyphicon-shopping-cart.my-cart-icon.my-cart-icon-affix {
     display: block;
     text-align: center;
 }
+.royal-image{
+    height: 150px;
+}
 .my-cart-icon-affix i {
     background: #fe9126 !important;
 }
@@ -3366,6 +3369,7 @@ ul.faq {
 .checkout {
     padding: 2em 0;
 }
+
 .value-minus, .value-plus {
     margin: 4px 10px;
 }
